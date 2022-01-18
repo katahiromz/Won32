@@ -1,0 +1,18 @@
+[submodule "WonAlphaBlend"]
+	path = WonAlphaBlend
+	url = https://github.com/katahiromz/WonAlphaBlend.git
+[submodule "WonFileID"]
+	path = WonFileID
+	url = https://github.com/katahiromz/WonFileID.git
+[submodule "WonGetDiskFreeSpaceEx"]
+	path = WonGetDiskFreeSpaceEx
+	url = https://github.com/katahiromz/WonGetDiskFreeSpaceEx.git
+[submodule "WonGradientFill"]
+	path = WonGradientFill
+	url = https://github.com/katahiromz/WonGradientFill.git
+[submodule "WonSetThreadUILanguage"]
+	path = WonSetThreadUILanguage
+	url = https://github.com/katahiromz/WonSetThreadUILanguage.git
+[submodule "WonTransparentBlt"]
+	path = WonTransparentBlt
+	url = https://github.com/katahiromz/WonTransparentBlt.git
